@@ -3,6 +3,7 @@
   "only_known_devices": false,
   "scanTimeout": 60,
   "scanInterval": 5,
+  "retain": true,
   "// If a device's address is here, it'll be given a human-readable name": 0,
   "known_devices": {
     "c0:52:3f:50:42:c9": "MiFitness",
