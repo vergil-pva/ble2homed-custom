@@ -21,10 +21,10 @@
   "author": "Gordon Williams (gw@pur3.co.uk)",
   "license": "MPL-2.0",
   "dependencies": {
-    "@abandonware/bleno": "^0.6.1",
+    "@abandonware/bleno": "^0.6.2",
     "json5": "^2.2.3",
     "mqtt": "^5.0.4",
-    "@abandonware/noble": "^1.9.2-23",
+    "@abandonware/noble": "^1.9.2-26",
     "websocket": "^1.0.34",
     "minimist": "^1.2.8"
   }
